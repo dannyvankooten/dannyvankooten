@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Danny](https://www.dannyvankooten.com/) and I am a programmer from the Netherlands. I'm pretty comfortable writing PHP, JavaScript, Python, Go, Rust, C, Bash SQL, HTML and CSS.
+My name is [Danny](https://www.dannyvankooten.com/) and I am a programmer from the Netherlands. I'm pretty comfortable writing Go, Rust, SQL, Bash, PHP, Python, JavaScript, HTML and CSS.
 
 I'm passionate about web performance and accessibility and do my best to make the web a little more efficient through my work.
 
