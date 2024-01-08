@@ -1,9 +1,28 @@
 ### Hi there 👋
 
-My name is [Danny](https://www.dannyvankooten.com/) and I am a programmer from the Netherlands. I'm pretty comfortable writing Go, Rust, SQL, Bash, PHP, Python, JavaScript, HTML and CSS.
+I'm [Danny](https://www.dannyvankooten.com/), a programmer from the Netherlands. I'm pretty comfortable writing Go, Rust, C, SQL, Bash, PHP, Python, JavaScript, HTML and CSS.
 
-I'm passionate about web performance and accessibility and do my best to make the web a little more efficient through my work.
+**Currently**
 
-Currently, I am spending most of my time working on [Koko Analytics, a simple, lightweight and privacy friendly website analytics plugin for WordPress](https://www.kokoanalytics.com/).
+- [Koko Analytics](https://www.kokoanalytics.com/): lightweight and privacy-friendly analytics for your WordPress site.
+- [Mailchimp for WordPress](https://mc4wp.com/): the #1 Mailchimp plugin for WordPress (actively used on well over 2M sites).
+- [ibericode/vat](https://github.com/ibericode/vat): PHP library to handle EU VAT rules.
+- [Gozer](https://github.com/dannyvankooten/gozer): static site generator.
 
+**Previously**
+
+- [Browserpass](https://github.com/browserpass/browserpass-extension): browser extension for [pass](https://www.passwordstore.org/) utilizing native messaging.
+- [Fathom Analytics](https://github.com/usefathom/fathom): the original open-source version before I [left Fathom due to family obligations](https://www.dannyvankooten.com/blog/2019/stepping-down-fathom-maintainer/) and it was abandoned.
+- [AltoRouter](https://github.com/dannyvankooten/AltoRouter/): routing class for PHP.
+- [Grender](https://github.com/dannyvankooten/grender): Go package for writing JSON/XML data and HTML templates 
+- [go-moneybird](https://github.com/dannyvankooten/moneybird-go): Go client library for Moneybird.
+- [populate.js](https://github.com/dannyvankooten/populate.js): populate a HTMLFormElement from a JSON object.
+
+**For fun**
+
+- [Advent of Code](https://github.com/dannyvankooten/advent-of-code): my solutions for [Advent of Code](https://adventofcode.com/2023/about) 2015 - 2023. Implemented in C, Rust, Python and Golang.
+- [Nederlang](https://github.com/dannyvankooten/nederlang): bytecode interpreter for a programming language consisting of Dutch keywords, in Rust.
+- [1BRC](https://github.com/dannyvankooten/1brc): C implementation of the [1 Billion Rows Challenge](https://www.morling.dev/blog/one-billion-row-challenge/), in standard C99 with POSIX threads.
+- [Pepper Lang](https://github.com/dannyvankooten/pepper-lang): toy programming language, in C.
+  
 You can find some of my code [here on GitHub](https://github.com/dannyvankooten?tab=repositories&q=&type=&language=&sort=stargazers) or [here on SourceHut](https://git.sr.ht/~dvko).
