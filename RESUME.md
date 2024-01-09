@@ -1,7 +1,7 @@
 Danny van Kooten
 ==================
 
-Programmer with experience working with C, Rust, Go, Python, PHP, SQL, JavaScript, Bash, HTML and CSS. I'm passionate about making software more sustainable. For me that means that whatever I work on should ultimately contribute to less (embodied) energy, the sharing of knowledge and the empowerment of disadvantaged groups. 
+Programmer with experience working with C, Rust, Go, Python, PHP, SQL, JavaScript, Bash, HTML and CSS. I'm passionate about making software more sustainable. For me, that means that whatever I work on should ultimately contribute to less (embodied) energy, more freely shared knowledge and the empowerment of disadvantaged groups.
 
 | Practical info |  |
 | --- | --- |
@@ -10,6 +10,7 @@ Programmer with experience working with C, Rust, Go, Python, PHP, SQL, JavaScrip
 | Email | [hi@dvk.co](mailto:hi@dvk.co) |
 | Website | [www.dannyvankooten.com](https://www.dannyvankooten.com/) |
 | GitHub | [@dannyvankooten](https://github.com/dannyvankooten) |
+| sourcehut| [dvko](https://git.sr.ht/~dvko/) |
 
 ---
 
@@ -17,7 +18,7 @@ Programmer with experience working with C, Rust, Go, Python, PHP, SQL, JavaScrip
 
 
 ### Skills:
-Software development, continuous integration and deployment, test driven development, profiling, single and multi-page web applications, progressive web apps, writing and/or improving documentation.
+Software development, continuous integration and deployment, test driven development, performance profiling, single page web applications, progressive web apps, writing and/or improving documentation.
 
 
 ### Technologies:
@@ -25,7 +26,7 @@ C, Rust, Go, Python, PHP, SQL, JavaScript, Bash, HTML, CSS.
 
 
 ### Tooling:
-Linux, git, prof, Valgrind, gdb, Make, pandas, awk.
+Linux, git, prof, Valgrind, gdb, Make, Docker, pandas, awk.
 
 
 ### Languages:
@@ -67,9 +68,9 @@ _Jan 2016 - now (Nijmegen, NL)_
 
 At ibericode I have been responsible for developing and maintaining various distributed open-source software packages and the e-commerce applications for our customers to purchase support for these packages and receive automatic software updates.
 
-These packages are in active use on well over 2 million websites and have been downloaded well over 50 million times.
+These packages are in active use on over 2 million websites and have been downloaded over 50 million times.
 
-Tech & skills: PHP, MySQL, JavaScript (React, Mithril.js, D3.js), HTML, CSS, Python, Golang, git, continuous deployment.
+Tech & skills: PHP, MySQL, JavaScript (React, Mithril.js, D3.js), HTML, CSS, Python, Golang, git, continuous integration, continuous deployment.
 
 
 ### Fathom Analytics ([usefathom.com](https://usefathom.com/))
@@ -80,7 +81,7 @@ _Apr 2018 - Mar 2019_
 
 In 2018 I co-founded Fathom Analytics, an open-source and privacy-focused software product for website analytics. I was the lead developer of the original open-source version of the project, which acquired well over 7.000 GitHub stars in its first year.
 
-Tech & skills: Golang, MySQL, SQLite, Postgres, git.
+Tech & skills: Golang, MySQL, SQLite, Postgres, Docker, git.
 
 ### Yoast ([yoast.com](https://yoast.com/))
 
