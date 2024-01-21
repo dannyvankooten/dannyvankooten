@@ -8,6 +8,8 @@ I'm [Danny](https://www.dannyvankooten.com/), a programmer from the Netherlands.
 - [Mailchimp for WordPress](https://mc4wp.com/): the #1 Mailchimp plugin for WordPress (actively used on well over 2M sites).
 - [ibericode/vat](https://github.com/ibericode/vat): PHP library to handle EU VAT rules.
 - [Gozer](https://github.com/dannyvankooten/gozer): static site generator.
+- [vat](https://github.com/dannyvankooten/vat): VAT number validation & current or historical rates retrieval for Golang.
+  
 
 **Previously**
 
