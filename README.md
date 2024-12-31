@@ -4,7 +4,8 @@ I'm [Danny](https://www.dannyvankooten.com/), a programmer from the Netherlands.
 
 ### Current projects that are actually useful
 
-- [Koko Analytics](https://www.kokoanalytics.com/): lightweight and privacy-friendly analytics for your WordPress site.
+- [Koko Analytics](https://github.com/koko-analytics/standalone): self-hostable PHP application for privacy friendly and lightweight website analytics.
+- [Koko Analytics for WordPress](https://www.kokoanalytics.com/): lightweight and privacy-friendly analytics for your WordPress site.
 - [Mailchimp for WordPress](https://mc4wp.com/): the #1 Mailchimp plugin for WordPress (actively used on well over 2M sites).
 - [Gozer](https://github.com/dannyvankooten/gozer): static site generator.
 - [vat](https://github.com/dannyvankooten/vat): VAT number validation & current or historical rates retrieval for Golang.
